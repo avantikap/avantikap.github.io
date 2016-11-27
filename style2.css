@@ -1,0 +1,12 @@
+.jumbotron{
+	color:white;
+	font-size:46px;
+	background-image: url("../IMG/Space_pic.jpg");
+}
+.container{
+	background-color: light gray
+}
+.video{width:100px;
+margin-left:auto;
+margin-right:auto;
+}
